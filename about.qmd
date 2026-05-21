@@ -1,0 +1,9 @@
+---
+title: "About Me"
+---
+
+Hi! My name is Dai and I am currently a Cognitive Science student at UCLA with interests in UX/UI design, visual storytelling, and user-centered experiences.
+
+I enjoy combining creativity with research to design experiences that feel both functional and engaging. 
+
+Outside of academics, I enjoy art, traveling, and trying new food spots.

@@ -1,0 +1,20 @@
+/* css styles */
+
+body {
+  background-color: #fdfaf6;
+  font-family: "Poppins", sans-serif;
+  color: #4a4a4a;
+}
+
+h1 {
+  color: #7b5e57;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+img {
+  border-radius: 20px;
+}

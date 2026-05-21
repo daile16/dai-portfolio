@@ -1,0 +1,8 @@
+---
+title: ""
+---
+# Dai Le 
+
+![](profile.jpg){width=250px fig-align="center"}
+
+Cognitive Science Student at UCLA
