@@ -4,13 +4,62 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Hi! My name is Dai and I am currently a Cognitive Science student at UCLA with interests in UX/UI design, visual storytelling, and user-centered experiences.\nI enjoy combining creativity with research to design experiences that feel both functional and engaging.\nOutside of academics, I enjoy art, traveling, and trying new food spots."
+    "text": "Hi! My name is Dai, and I am a Cognitive Science student at UCLA with interests in UX/UI design and human-centered product development.\nI enjoy combining creativity with research to understand user needs and translate findings into thoughtful design solutions that brings both beauty and convenience to people’s lives. Currently, I work as a Social Media & Design Specialist with UCLA Residential Life, where I create content and design materials that engage and inform on-campus residents.\nOutside of academics and work, I enjoy art, traveling, and exploring new food spots.\n\n\n\nKyoto, Japan\n\n\n\n(っ˘ڡ˘ς)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Dai Le",
     "section": "",
-    "text": "Dai Le\n\n\n\n\n\nCognitive Science Student at UCLA"
+    "text": "Dai Le\n\n\n\n\n\nCognitive Science Student at UCLA\nProjects | Resume"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: daile16@g.ucla.edu\nLinkedIn: https://linkedin.com/in/ledai\nGitHub: https://github.com/daile16"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Description: Revive is a mobile application designed to help users identify, repair, and refurbish used furniture. The project was inspired by the large amount of reusable furniture discarded during UCLA’s move-out season and aims to make refurbishment more accessible for beginners.\nTools & Skills: Figma, User Interviews, Survey Research, Wireframing\nLinks: Live Demo"
+  },
+  {
+    "objectID": "projects.html#revive-furniture-refurbishment-mobile-application",
+    "href": "projects.html#revive-furniture-refurbishment-mobile-application",
+    "title": "Projects",
+    "section": "",
+    "text": "Description: Revive is a mobile application designed to help users identify, repair, and refurbish used furniture. The project was inspired by the large amount of reusable furniture discarded during UCLA’s move-out season and aims to make refurbishment more accessible for beginners.\nTools: Figma, User Interviews, Survey Research, Wireframing\nLinks: Live Demo"
+  },
+  {
+    "objectID": "projects.html#ai-product-development-fellowship",
+    "href": "projects.html#ai-product-development-fellowship",
+    "title": "Projects",
+    "section": "",
+    "text": "[description]"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Download Resume"
+  },
+  {
+    "objectID": "projects.html#ai-mock-interview-platform",
+    "href": "projects.html#ai-mock-interview-platform",
+    "title": "Projects",
+    "section": "AI Mock Interview Platform",
+    "text": "AI Mock Interview Platform\nDescription: As part of the ACM-W Tech Fellowship, I collaborated with a cross-functional team to develop an AI-powered mock interview platform. The platform allows students to input a job title and description, practice answering tailored interview questions, and receive feedback on each response. I contributed to user research, identifying pain points, and translating insights into product concepts and wireframes.\nTools & Skills: Figma, User Interviews, Product Research, Wireframing"
+  },
+  {
+    "objectID": "projects.html#revive-furniture-refurbishment-app",
+    "href": "projects.html#revive-furniture-refurbishment-app",
+    "title": "Projects",
+    "section": "",
+    "text": "Description: Revive is a mobile application designed to help users identify, repair, and refurbish used furniture. The project was inspired by the large amount of reusable furniture discarded during UCLA’s move-out season and aims to make refurbishment more accessible for beginners.\nTools & Skills: Figma, User Interviews, Survey Research, Wireframing\nLinks: Live Demo"
   }
 ]
