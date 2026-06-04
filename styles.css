@@ -1,20 +1,52 @@
-/* css styles */
+/* Fonts & Colors */
 
 body {
-  background-color: #fdfaf6;
+  background-color: #FAF8F5;
   font-family: "Poppins", sans-serif;
-  color: #4a4a4a;
+  color: #4A4A4A;
 }
 
+/* Headings */
+
 h1 {
-  color: #7b5e57;
+  color: #7B5E57;
   text-align: center;
+  font-weight: 600;
 }
+
+h2 {
+  color: #7B5E57;
+  text-align: center;
+  font-weight: 500;
+}
+
+/* Paragraphs */
 
 p {
   text-align: center;
 }
 
+
 img {
   border-radius: 20px;
+}
+
+/* Navigation Bar */
+
+.navbar {
+  background-color: #FAF8F5;
+}
+
+.about-gallery img {
+  width: 100%;
+  height: 350px;
+  object-fit: cover;
+  border-radius: 20px;
+}
+
+.about-gallery {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  align-items: flex-start;
 }

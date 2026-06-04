@@ -2,8 +2,28 @@
 title: "About Me"
 ---
 
-Hi! My name is Dai and I am currently a Cognitive Science student at UCLA with interests in UX/UI design, visual storytelling, and user-centered experiences.
+Hi! My name is Dai, and I am a Cognitive Science student at UCLA with interests in UX/UI design and human-centered product development.
 
-I enjoy combining creativity with research to design experiences that feel both functional and engaging. 
+I enjoy combining creativity with research to understand user needs and translate findings into thoughtful design solutions that brings both beauty and convenience to people's lives. Currently, I work as a Social Media & Design Specialist with UCLA Residential Life, where I create content and design materials that engage and inform on-campus residents.
 
-Outside of academics, I enjoy art, traveling, and trying new food spots.
+Outside of academics and work, I enjoy art, traveling, and exploring new food spots.
+
+<div class="about-gallery">
+
+<div>
+
+![](travel.jpg)
+
+*Kyoto, Japan*
+
+</div>
+
+<div>
+
+![](food.jpg)
+
+*(っ˘ڡ˘ς)*
+
+</div>
+
+</div>

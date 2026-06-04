@@ -1,0 +1,22 @@
+---
+title: "Projects"
+---
+
+## REVIVE: Furniture Refurbishment App
+
+**Description:**
+Revive is a mobile application designed to help users identify, repair, and refurbish used furniture. The project was inspired by the large amount of reusable furniture discarded during UCLA's move-out season and aims to make refurbishment more accessible for beginners.
+
+**Tools & Skills:**
+Figma, User Interviews, Survey Research, Wireframing
+
+**Links:**
+[Live Demo](https://drive.google.com/file/d/1qo9grnEz47XEDKH08zfLoZpPtOnxvwfX/view?usp=sharing)
+
+## AI Mock Interview Platform
+
+**Description:**
+As part of the ACM-W Tech Fellowship, I collaborated with a cross-functional team to develop an AI-powered mock interview platform. The platform allows students to input a job title and description, practice answering tailored interview questions, and receive feedback on each response. I contributed to user research, identifying pain points, and translating insights into product concepts and wireframes.
+
+**Tools & Skills:** 
+Figma, User Interviews, Product Research, Wireframing
